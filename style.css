@@ -2,8 +2,7 @@
 
 :root {
     background-color: #ffeecf;
-  color: #65ff74;
-    --cor-destaque: #14e2edbb;
+    --cor-destaque: #0d0dd1bb;
     --cor-gradiente-creme: linear-gradient(113deg, #f7efaa 0%, #ff2121 44.96%, #fbed96 100%);
 
 }

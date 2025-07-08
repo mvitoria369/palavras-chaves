@@ -2,7 +2,6 @@
 
 :root {
     background-color: #ffeecf;
-    caret-color: #060674bb;
     --cor-destaque: #0d0dd1bb;
     --cor-gradiente-creme: linear-gradient(113deg, #f7efaa 0%, #ff2121 44.96%, #fbed96 100%);
 
@@ -80,7 +79,7 @@ h1 {
     display: flex;
     border-radius: 0.625rem;
     align-self: stretch;
-    color: var(--cor-gradiente-creme);
+    color: var(--cor-destaque);
     font-size: 2.5rem;
     justify-content: center;
     margin-bottom: 2rem;

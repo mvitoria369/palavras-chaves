@@ -80,7 +80,7 @@ h1 {
     display: flex;
     border-radius: 0.625rem;
     align-self: stretch;
-    color: var(caret-color);
+    color: var(--cor-gradiente-creme);
     font-size: 2.5rem;
     justify-content: center;
     margin-bottom: 2rem;

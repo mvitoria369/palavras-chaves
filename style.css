@@ -3,6 +3,10 @@
 :root {
     --cor-destaque: #14e2edbb;
     --cor-gradiente-creme: linear-gradient(113deg, #f7efaa 0%, #ff2121 44.96%, #fbed96 100%);
+    .secondary-background {
+  background-color: #ffeecf;
+  color: #65ff74;
+}
 }
 
 * {
